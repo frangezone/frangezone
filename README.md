@@ -10,16 +10,19 @@
 --------------------------------------------------
 
 ## 目录
-[toc]
-
+* [博客介绍](#博客介绍)
+* [项目配置](#项目配置)
+* [开始](#开始)
+* [撰写博文](#撰写博文)
+* [定制化](#定制化)
 
 ### 博客介绍
 
-该博客基于 GitHub Pages 和 Jekyll 打造而成，是目前较为主流的搭建博客的方式之一。
+该博客基于 [GitHub Pages](https://pages.github.com/) 和 [Jekyll](http://jekyllcn.com/) 打造而成，是目前较为主流的搭建博客的方式之一。
 
 ### 项目配置
 
-Jekyll的项目文件结构如下
+Jekyll主题的代码文件结构如下
 
 
 `_posts`保存已经写好的md格式的文章
@@ -36,7 +39,7 @@ Jekyll的项目文件结构如下
 # Site settings
 title: Frange Zone                    # 你的博客网站标题
 SEOTitle: Xu's Blog | Frange Zone		# SEO 标题
-description: "This is my blog"	   	   # 随便说点，描述一下
+description: "Forever Young"	   	   # 随便说点，描述一下
 
 # SNS settings      
 github_username: frangezone     # 你的github账号
@@ -57,13 +60,14 @@ yaml 头文件长这样:
 layout:     post
 title:      博客迁移
 subtitle:   "HelloWorld，Again"       #记得使用引号
-date:       2018-09-20
-author:     Yousanflics
+date:       2021-08-24
+author:     frange
 header-img: img/post-bg-rwd.jpg
 catalog: 	 true
 tags:
     - 生活
-    - 个人博客
+    - 代码
+    - 随想
 ---
 
 ```
