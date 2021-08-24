@@ -23,7 +23,7 @@
 ### 项目配置
 
 Jekyll主题的代码文件结构如下
-<img src="http://frangezone.github.io/img/Jekyll_theme_code.png" width="200"/>
+<br/><img src="http://frangezone.github.io/img/Jekyll_theme_code.png" width="200"/><br/>
 `_posts`保存已经写好的md格式的文章
 
 `assets文件夹`保存一些图片和css的一些文件
