@@ -1,8 +1,6 @@
 [Frange Zone](https://frangezone.github.io)
 ================================
 
-> I never expect this becomes popular.
-
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
 
