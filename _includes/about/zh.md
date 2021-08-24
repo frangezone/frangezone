@@ -5,11 +5,11 @@ Hi，我是小贝壳，毕业于[中国地质大学(武汉)](https://www.cug.edu
 
 ##### 写在前面
 
-其实将近一年多没有敲代码，对各种语言、算法都有些生疏，
-这个图表可视化了我对于各种编程语言的使用经历、兴趣，还附带了一些评语和解释等等。 啊我知道对比编程语言是一件很有争议的事情……自娱自乐一下！不要太较真哦 ;)
+其实将近一年多没有敲代码，对各种语言、算法都有些生疏，也接着搭建博客这个机会，重新捡起代码，做一些有价值的事情。
 
 
-##### 
+##### 写博客的意义
+
 
 - [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
 - Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
@@ -22,7 +22,9 @@ Hi，我是小贝壳，毕业于[中国地质大学(武汉)](https://www.cug.edu
 - [JavaScript 模块化七日谈][1] · 2015
 
 
-##### 一些只言片语
+##### 未来可能更新的内容
+
+- 
 [1]: //huangxuan.me/2015/07/09/js-module-7day/
 [2]: //huangxuan.me/2015/12/28/css-sucks-2015/
 [3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
