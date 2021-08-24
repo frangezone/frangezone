@@ -30,7 +30,7 @@
 
 ### 环境
 
-如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要清理浏览器的本地缓存）。
+如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要清理浏览器的本地缓存）。
 
 
 ### 开始
@@ -127,8 +127,8 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "冰霜",
-        href: "https://github.com/halfrost/Halfrost-Field"
+        title: "xzd",
+        href: "https://github.com/xzd1621"
     },
     {
         title: "Apple",
