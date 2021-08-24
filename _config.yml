@@ -23,8 +23,8 @@ RSS: false
 weibo_username:     /u/5015947604
 zhihu_username:     risingsun-5
 github_username:    frangezone
-#twitter_username:   huxpro
-#facebook_username:  huxpro
+#twitter_username:   frange
+#facebook_username:  frange
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -112,10 +112,10 @@ friends: [
         title: "Apple",
         href: "https://www.apple.com.cn/"
     },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
+        title: "CSDN",
+        href: "https://blog.csdn.net/qq_40287093"
     },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
+        title: "xzd",
+        href: "https://github.com/xzd1621"
     }
 ]
