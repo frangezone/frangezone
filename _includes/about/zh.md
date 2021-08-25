@@ -26,6 +26,6 @@ Hi，我是小贝壳，毕业于[中国地质大学(武汉)](https://www.cug.edu
 - [微信](https://weixin.com)
 - [微博](https://weibo.com/u/5015947604)
 - [知乎](https://www.zhihu.com/people/risingsun-5)
-- [Github](https://github.com/frangezone)
+- [GitHub](https://github.com/frangezone)
 - [CSDN](https://blog.csdn.net/qq_40287093)
 - [即刻-frange](https://web.okjike.com/)
