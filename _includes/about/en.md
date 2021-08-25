@@ -17,10 +17,10 @@ In the future, I don't expect to achieve any major achievements, but I want to b
 
 ### You can find me
 - [Bilibili](https://space.bilibili.com/56294830)
-- [Wechat](https://weixin.com)
+- [WeChat](https://weixin.com)
 - [Weibo](https://weibo.com/u/5015947604)
 - [ZhiHu](https://www.zhihu.com/people/risingsun-5)
-- [Github](https://github.com/frangezone)
+- [GitHub](https://github.com/frangezone)
 - [CSDN](https://blog.csdn.net/qq_40287093)
 - [jike-frange](https://web.okjike.com/)
 
