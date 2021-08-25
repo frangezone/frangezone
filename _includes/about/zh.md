@@ -21,7 +21,7 @@ Hi，我是小贝壳，毕业于[中国地质大学(武汉)](https://www.cug.edu
 
 
 
-### 你可以在以下平台找到我
+### 其他主页
 
 - [B站](https://space.bilibili.com/56294830)
 - [微信](https://weixin.com)
