@@ -16,7 +16,7 @@ I have been exploring and getting to know myself, hoping to establish connection
 In the future, I don't expect to achieve any major achievements, but I want to be able to do what I like and create some value, nothing more.
 
 ### You can find me
-- [Bilibil](https://space.bilibili.com/56294830)
+- [Bilibili](https://space.bilibili.com/56294830)
 - [Wechat](https://weixin.com)
 - [Weibo](https://weibo.com/u/5015947604)
 - [ZhiHu](https://www.zhihu.com/people/risingsun-5)
