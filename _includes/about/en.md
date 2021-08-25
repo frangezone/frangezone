@@ -12,10 +12,10 @@ Daily attention to the Internet, products, commerce, design and other fields.
 - Thinking: Thinking all the time. Use [flomo](https://flomoapp.com/register2/?MTM5MDA) to write down my daily thoughts.
 
 ### Self-expectation
-I have been exploring and getting to know myself, hoping to establish connections with more like-minded friends. 
+I have been exploring and getting to know myself, hoping to establish connections with more like-minded friends. <br/>
 In the future, I don't expect to achieve any major achievements, but I want to be able to do what I like and create some value, nothing more.
 
-### You can find me
+### You can find me here
 - [Bilibili](https://space.bilibili.com/56294830)
 - [WeChat](https://weixin.com)
 - [Weibo](https://weibo.com/u/5015947604)
