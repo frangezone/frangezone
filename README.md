@@ -163,7 +163,7 @@ friends: [
 
 1. 该模板 Fork 自 [Hux](https://github.com/Huxpro/huxpro.github.io) 这里, 感谢该作者。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
-3. 博客的搭建参考了 [Yousanflics](https://blog.csdn.net/siwangtt/article/details/112943095)和 [李小肥的YY](https://blog.csdn.net/siwangtt/article/details/112943095) 的教程，十分感谢！
+3. 博客的搭建参考了 [Yousanflics](https://blog.csdn.net/siwangtt/article/details/112943095) 和 [李小肥的YY](https://blog.csdn.net/siwangtt/article/details/112943095) 的教程，十分感谢！
 
 ## License
 
