@@ -21,8 +21,8 @@ Hi，我是小贝壳，毕业于[中国地质大学(武汉)](https://www.cug.edu
 
 
 ### 其他主页
-
-- [B站](https://space.bilibili.com/56294830)
 - [微信](https://weixin.com)
-- [CSDN](https://blog.csdn.net/qq_40287093)
+- [B站](https://space.bilibili.com/56294830)
 - [即刻](https://web.okjike.com/u/eafc6283-37e8-4b36-a58e-a4ef03284f3d)
+- [CSDN](https://blog.csdn.net/qq_40287093)
+- [Steam](https://steamcommunity.com/profiles/76561198365292989/)
