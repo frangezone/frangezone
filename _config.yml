@@ -109,13 +109,22 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "Apple",
-        href: "https://www.apple.com.cn/"
+        title: "Chi",
+        href: "https://chixbin.com/"
     },{
-        title: "CSDN",
-        href: "https://blog.csdn.net/qq_40287093"
+        title: "Lemange,
+        href: "http://lemangeyin.com/about.html"
     },{
-        title: "xzd",
-        href: "https://github.com/xzd1621"
+        title: "Niin",
+        href: "https://blog.niin.ga/"
+    },{
+        title: "见字如面",
+        href: "https://hiwannz.com/"
+    },{
+        title: "向远公园",
+        href: "https://steppark.net/index.html"
+    },{
+        title: "雷军のblog",
+        href: "http://leijun.blog.techweb.com.cn/"
     }
 ]
