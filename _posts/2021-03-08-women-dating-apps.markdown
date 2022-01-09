@@ -4,7 +4,7 @@ title:      "对女性视角下的约会APP研究"
 subtitle:   "以「bumble」和「橙」为例"
 date:       2021-03-08 12:00:00
 author:     "frange"
-header-img: img/post-bg-women-dating-apps.jpg
+header-img: img/post-bg-women-dating-apps.png
 catalog:    true
 tags:
     - 产品
