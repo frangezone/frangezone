@@ -13,11 +13,11 @@ tags:
 
 ## 什么是App Clips
 
-2020年6月份的苹果WWDC大会上，苹果预告了APP Clips，主打便捷轻快的应用体验。在9月份的苹果新品发布会上，APP Clips作为iOS14的新特性随之发布。相比于小组件、资源库等用户能明显感知到的变化，感知不强的APP Clips似乎没有受到多大的关注。
+2020 年 6 月份的苹果 WWDC 大会上，苹果预告了 APP Clips，主打便捷轻快的应用体验。在 9 月份的苹果新品发布会上，APP Clips 作为 iOS14 的新特性随之发布。相比于小组件、资源库等用户能明显感知到的变化，感知不强的 APP Clips 似乎没有受到多大的关注。
 
 ![](/img/app-clips/1.png)
 
-APP Clips其实就是APP的一个子集，不需要下载完整APP，用户就能快速完成任务。官方对其的定义为：
+APP Clips 其实就是 APP 的一个子集，不需要下载完整 APP，用户就能快速完成任务。官方对其的定义为：
 
 > An app clip is a small part of your app that’s discoverable at the moment it’s needed. App clips are fast and lightweight so a user can open them quickly.
 > 一个轻应用是应用的一小部分，并且能够在需要的时候被发现。轻应用快速而轻巧，所以用户可以快速打开它们。
