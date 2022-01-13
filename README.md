@@ -1,7 +1,8 @@
 [Frange Zone](https://frangezone.github.io)
 ================================
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](/img/blog-desktop.png)
+
 
 
 ## 使用 Jekyll 搭建个人博客
