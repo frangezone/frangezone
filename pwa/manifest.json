@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Xu's Blog",
+  "short_name": "Xu's Blog",
+  "description": "No amount of money ever bought a second of time.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
