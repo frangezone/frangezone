@@ -17,4 +17,4 @@ tags:
 
 给大家康康我的NFT~
 
-<nft-card contractAddress="0xd2bc5c3990c06ccd26f10a3e9d93b19450136c8d" tokenId="136"> </nft-card><script src = "https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+<nft-card contractAddress="0xd2bc5c3990c06ccd26f10a3e9d93b19450136c8d" tokenId="136"></nft-card>
