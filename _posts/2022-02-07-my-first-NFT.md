@@ -5,7 +5,6 @@ subtitle:   "xixi"
 date:       2022-02-07 12:00:00
 author:     "frange"
 header-style: text
-catalog:    false
 tags:
     - Web3
     - NFT
