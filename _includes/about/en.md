@@ -1,3 +1,5 @@
+>_Last updated : 2021-08_
+
 Hi, I am frange. I graduated from [CUG(Wuhan)](http://www.cug.edu.cn/) with a CS major. I am currently a PM in Duoyi Network.
 
 Focus on Internet, products, commerce, design and other fields.
@@ -15,10 +17,10 @@ Focus on Internet, products, commerce, design and other fields.
 I have been exploring and getting to know myself, hoping to establish connections with more like-minded friends. <br/>
 In the future, I don't expect to achieve any major achievements, but I want to be able to do what I like and create some value, nothing more.
 
-### You can find me here
-- [WeChat](https://weixin.com)
+### Links
+- [jike](https://web.okjike.com/u/eafc6283-37e8-4b36-a58e-a4ef03284f3d)
+- [Wechat](https://mp.weixin.qq.com/s/Be5LHm7-_rGlogiALAJiGQ)
+- [Newsletter](https://gamer.zhubai.love)
 - [Bilibili](https://space.bilibili.com/56294830)
-- [jike-frange](https://web.okjike.com/u/eafc6283-37e8-4b36-a58e-a4ef03284f3d)
 - [CSDN](https://blog.csdn.net/qq_40287093)
 - [Steam](https://steamcommunity.com/profiles/76561198365292989/)
-
