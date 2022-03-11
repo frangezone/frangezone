@@ -43,7 +43,7 @@ Newsletter，也被称作邮件通讯，本质上就是通过邮件来交付内�
 
 **和公众号、博客的区别**
 
-newsletter 是采用邮件的方式订阅，这意味者可以不依赖于平台，直接就可以和读者交流。此外，还可以导出订阅者的邮箱列表，这相当于作者自己的私域经营。比如，可以通过给订阅者发送邮件的方式，转移到其他平台，继续经营自己的订阅者，把掌握权放在了自己的手中。
+newsletter 是采用邮件的方式订阅，这意味着可以不依赖于平台，直接就可以和读者交流。此外，还可以导出订阅者的邮箱列表，这相当于作者自己的私域经营。比如，可以通过给订阅者发送邮件的方式，转移到其他平台，继续经营自己的订阅者，把掌握权放在了自己的手中。
 
 公众号经过多年的发展，虽然聚拢了一批优质的内容创作者，但由于信息流改版等因素，订阅的内容往往沉没在众多的公众号中，难以触达到用户。从数据上看，公众号的打开率只有 5% 左右，而 newsletter 的打开率则远远高于这个数字。
 
@@ -57,9 +57,7 @@ newsletter 是采用邮件的方式订阅，这意味者可以不依赖于平台
 
 这里仅对中文互联网下的 newsletter 平台简单介绍。
 
-**小报童**
-
-[https://xiaobot.net](https://xiaobot.net/home.html)
+[**小报童**](https://xiaobot.net/home.html)
 
 ![xiaobot.png](/img/introduce-to-newsletter/xiaobot.png)
 
@@ -67,33 +65,27 @@ newsletter 是采用邮件的方式订阅，这意味者可以不依赖于平台
 
 感觉定位上更偏向于核心创作，付费专栏相信会吸引到很多用心创作的作者和读者。
 
-**竹白**
-
-[https://zhubai.love/](https://zhubai.love/)
+[**竹白**](https://zhubai.love/)
 
 ![zhubai.png](/img/introduce-to-newsletter/zhubai.png)
 
 竹白拥有数据分析功能，可以了解自己的内容质量，以此来辅助创作。除了邮箱订阅外，还支持微信订阅，据说还将支持钉钉/飞书/企业微信/RSS订阅，可以好好期待一波。
 
-**Hedwig**
-
-[https://hedwig.pub/](https://hedwig.pub/)
+[**Hedwig**](https://hedwig.pub/)
 
 ![hedwig.png](/img/introduce-to-newsletter/hedwig.png)
 
 Hedwig 是《哈利波特》系列中的猫头鹰的名字，也是哈利的信使，把这个当作 newsletter 这种服务的名字也比较贴切。Hedwig 在首页推荐了许多优质的 newsletter，这点很不错。另外注册需要邀请码，可使用 HEDWIGPUB。
 
-**氢舟**
 
-[https://hypper.cn](https://hypper.cn/?_eid=EA030&_cid=CA000&ref_code=a2pN)
+[**氢舟**](https://hypper.cn/)
 
 ![qingzhou.png](/img/introduce-to-newsletter/qingzhou.png)
 
 氢舟支持图文创作和音频创作，目前需要邀请码或者[申请](https://hypper.cn/applyfor)，形式上感觉更像[爱发电](https://afdian.net)。
 
-**知园**
 
-[https://zhiy.cc](https://zhiy.cc/)
+[**知园**](https://zhiy.cc/)
 
 ![zhiyuan.png](/img/introduce-to-newsletter/zhiyuan.png)
 
@@ -122,42 +114,26 @@ PS：我目前在做一档关于「电子游戏」的 newsletter ，叫做「[�
 
 多看看别人优秀的 newsletter，也能有所借鉴，学习如何做好一个 newsletter。
 
-产品
+**产品**
+- [https://index.pmthinking.com/](https://index.pmthinking.com/)
+- [https://hsxg.ghost.io/](https://hsxg.ghost.io/)
+- [https://kyth.hedwig.pub/](https://kyth.hedwig.pub/)
+- [https://index.pmthinking.com/](https://index.pmthinking.com/)
+- [https://index.pmthinking.com/](https://index.pmthinking.com/)
+- [https://social.zhubai.love](https://social.zhubai.love/)
 
-[https://index.pmthinking.com/](https://index.pmthinking.com/)
+**设计**
+- [https://design.zhubai.love/](https://design.zhubai.love/)
+- [https://newsletter.dex.group](https://newsletter.dex.group/)
+- [https://anyway.zhubai.love](https://anyway.zhubai.love/)
 
-[https://hsxg.ghost.io/](https://hsxg.ghost.io/)
-
-[https://kyth.hedwig.pub/](https://kyth.hedwig.pub/)
-
-[https://social.zhubai.love](https://social.zhubai.love/)
-
-设计
-
-[https://design.zhubai.love/](https://design.zhubai.love/)
-
-[https://newsletter.dex.group](https://newsletter.dex.group/)
-
-[https://anyway.zhubai.love](https://anyway.zhubai.love/)
-
-其他
-
-[https://xpaidia.com/](https://xpaidia.com/)
-
-[https://havefun.zhubai.love/](https://havefun.zhubai.love/)
-
-[https://photography.zhubai.love/](https://photography.zhubai.love/)
+**其他**
+- [https://xpaidia.com/](https://xpaidia.com/)
+- [https://havefun.zhubai.love/](https://havefun.zhubai.love/)
+- [https://havefun.zhubai.love/](https://havefun.zhubai.love/)
+- [https://photography.zhubai.love/](https://photography.zhubai.love/)
 
 ### 参考
-
-从播客到Newsletter，我们该为创作者的未来感到悲观吗？| 若有所播
-
-[https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg](https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg)
-
-中文 newsletter 导航
-
-[https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
-
-PodLetter 播客简报导航
-
-[https://podletter.club](https://podletter.club/)
+- [从播客到 Newsletter，我们该为创作者的未来感到悲观吗？](https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg)
+- [中文 newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
+- [PodLetter 播客简报导航](https://podletter.club/)
