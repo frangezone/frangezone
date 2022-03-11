@@ -113,29 +113,26 @@ PS：我目前在做一档关于「电子游戏」的 newsletter ，叫做「[�
 
 多看看别人优秀的 newsletter，也能有所借鉴，学习如何做好一个 newsletter。
 
-产品
-
+**产品**
 - [https://index.pmthinking.com/](https://index.pmthinking.com/)
 - [https://hsxg.ghost.io/](https://hsxg.ghost.io/)
--[https://kyth.hedwig.pub/](https://kyth.hedwig.pub/)
+- [https://kyth.hedwig.pub/](https://kyth.hedwig.pub/)
 - [https://index.pmthinking.com/](https://index.pmthinking.com/)
 - [https://index.pmthinking.com/](https://index.pmthinking.com/)
 - [https://social.zhubai.love](https://social.zhubai.love/)
 
-设计
-
+**设计**
 - [https://design.zhubai.love/](https://design.zhubai.love/)
 - [https://newsletter.dex.group](https://newsletter.dex.group/)
 - [https://anyway.zhubai.love](https://anyway.zhubai.love/)
 
-其他
-
+**其他**
 - [https://xpaidia.com/](https://xpaidia.com/)
 - [https://havefun.zhubai.love/](https://havefun.zhubai.love/)
 - [https://havefun.zhubai.love/](https://havefun.zhubai.love/)
 - [https://photography.zhubai.love/](https://photography.zhubai.love/)
 
 ### 参考
-- [从播客到Newsletter，我们该为创作者的未来感到悲观吗？](https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg)
+- [从播客到 Newsletter，我们该为创作者的未来感到悲观吗？](https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg)
 - [中文 newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 - [PodLetter 播客简报导航](https://podletter.club/)
