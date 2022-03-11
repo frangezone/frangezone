@@ -123,40 +123,27 @@ PS：我目前在做一档关于「电子游戏」的 newsletter ，叫做「[�
 
 产品
 
-[https://index.pmthinking.com/](https://index.pmthinking.com/)
-
-[https://hsxg.ghost.io/](https://hsxg.ghost.io/)
-
-[https://kyth.hedwig.pub/](https://kyth.hedwig.pub/)
-
-[https://social.zhubai.love](https://social.zhubai.love/)
+- [https://index.pmthinking.com/](https://index.pmthinking.com/)
+- [https://hsxg.ghost.io/](https://hsxg.ghost.io/)
+-[https://kyth.hedwig.pub/](https://kyth.hedwig.pub/)
+- [https://index.pmthinking.com/](https://index.pmthinking.com/)
+- [https://index.pmthinking.com/](https://index.pmthinking.com/)
+- [https://social.zhubai.love](https://social.zhubai.love/)
 
 设计
 
-[https://design.zhubai.love/](https://design.zhubai.love/)
-
-[https://newsletter.dex.group](https://newsletter.dex.group/)
-
-[https://anyway.zhubai.love](https://anyway.zhubai.love/)
+- [https://design.zhubai.love/](https://design.zhubai.love/)
+- [https://newsletter.dex.group](https://newsletter.dex.group/)
+- [https://anyway.zhubai.love](https://anyway.zhubai.love/)
 
 其他
 
-[https://xpaidia.com/](https://xpaidia.com/)
-
-[https://havefun.zhubai.love/](https://havefun.zhubai.love/)
-
-[https://photography.zhubai.love/](https://photography.zhubai.love/)
+- [https://xpaidia.com/](https://xpaidia.com/)
+- [https://havefun.zhubai.love/](https://havefun.zhubai.love/)
+- [https://havefun.zhubai.love/](https://havefun.zhubai.love/)
+- [https://photography.zhubai.love/](https://photography.zhubai.love/)
 
 ### 参考
-
-从播客到Newsletter，我们该为创作者的未来感到悲观吗？| 若有所播
-
-[https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg](https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg)
-
-中文 newsletter 导航
-
-[https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
-
-PodLetter 播客简报导航
-
-[https://podletter.club](https://podletter.club/)
+- [从播客到Newsletter，我们该为创作者的未来感到悲观吗？](https://mp.weixin.qq.com/s/PX-z9ym0vIcw_Mrdlf9htg)
+- [中文 newsletter 导航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
+- [PodLetter 播客简报导航](https://podletter.club/)
