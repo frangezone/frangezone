@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Newsletter 入门指南"
-subtitle:   "Introduce to newsletter"
+subtitle:   "Introduction to newsletter"
 date:       2022-03-11 15:00:00
 author:     "frange"
 header-img: img/post-bg-introduce-to-newsletter.png
