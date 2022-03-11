@@ -5,7 +5,6 @@ subtitle:   "Introduce to newsletter"
 date:       2022-03-11 15:00:00
 author:     "frange"
 header-img: img/post-bg-introduce-to-newsletter.png
-header-style: text
 catalog:    true
 tags:
     - 产品
