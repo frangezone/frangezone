@@ -56,9 +56,7 @@ newsletter 是采用邮件的方式订阅，这意味者可以不依赖于平台
 
 这里仅对中文互联网下的 newsletter 平台简单介绍。
 
-**小报童**
-
-[https://xiaobot.net](https://xiaobot.net/home.html)
+[**小报童**](https://xiaobot.net/home.html)
 
 ![xiaobot.png](/img/introduce-to-newsletter/xiaobot.png)
 
@@ -66,33 +64,27 @@ newsletter 是采用邮件的方式订阅，这意味者可以不依赖于平台
 
 感觉定位上更偏向于核心创作，付费专栏相信会吸引到很多用心创作的作者和读者。
 
-**竹白**
-
-[https://zhubai.love/](https://zhubai.love/)
+[**竹白**](https://zhubai.love/)
 
 ![zhubai.png](/img/introduce-to-newsletter/zhubai.png)
 
 竹白拥有数据分析功能，可以了解自己的内容质量，以此来辅助创作。除了邮箱订阅外，还支持微信订阅，据说还将支持钉钉/飞书/企业微信/RSS订阅，可以好好期待一波。
 
-**Hedwig**
-
-[https://hedwig.pub/](https://hedwig.pub/)
+[**Hedwig**](https://hedwig.pub/)
 
 ![hedwig.png](/img/introduce-to-newsletter/hedwig.png)
 
 Hedwig 是《哈利波特》系列中的猫头鹰的名字，也是哈利的信使，把这个当作 newsletter 这种服务的名字也比较贴切。Hedwig 在首页推荐了许多优质的 newsletter，这点很不错。另外注册需要邀请码，可使用 HEDWIGPUB。
 
-**氢舟**
 
-[https://hypper.cn](https://hypper.cn/?_eid=EA030&_cid=CA000&ref_code=a2pN)
+[**氢舟**](https://hypper.cn/)
 
 ![qingzhou.png](/img/introduce-to-newsletter/qingzhou.png)
 
 氢舟支持图文创作和音频创作，目前需要邀请码或者[申请](https://hypper.cn/applyfor)，形式上感觉更像[爱发电](https://afdian.net)。
 
-**知园**
 
-[https://zhiy.cc](https://zhiy.cc/)
+[**知园**](https://zhiy.cc/)
 
 ![zhiyuan.png](/img/introduce-to-newsletter/zhiyuan.png)
 
