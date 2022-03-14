@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "本播客食用指南"
+title:      "本博客食用指南"
 subtitle:   "introduce to my blog"
 date:       2022-01-13 12:00:00
 author:     "frange"
