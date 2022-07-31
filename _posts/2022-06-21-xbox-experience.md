@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      "Xbox 使用体验"
@@ -10,7 +9,6 @@ tags:
     - 数码
     - 游戏
 ---
-```
 
 五月初的时候观看了 [Xbox 20 周年纪录片](https://mp.weixin.qq.com/s/Tgx-ZutM_K98iBWKJ3F5rQ)，被微软和这帮工程师所吸引，进而买了 Xbox Series S。（作为一个果粉，之前一直很鄙夷微软，但这个纪录片让我对微软有了好感，也确实看到微软在游戏领域所做的一些工作）
 
