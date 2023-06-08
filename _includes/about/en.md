@@ -21,6 +21,4 @@ In the future, I don't expect to achieve any major achievements, but I want to b
 - [jike](https://web.okjike.com/u/eafc6283-37e8-4b36-a58e-a4ef03284f3d)
 - [Wechat](https://mp.weixin.qq.com/s/Be5LHm7-_rGlogiALAJiGQ)
 - [Newsletter](https://gamer.zhubai.love)
-- [Bilibili](https://space.bilibili.com/56294830)
-- [CSDN](https://blog.csdn.net/qq_40287093)
 - [Steam](https://steamcommunity.com/profiles/76561198365292989/)
