@@ -69,7 +69,7 @@ kramdown:
 # 评论系统
 
 # Disqus settings
-disqus_username: https-frangezone-github-io
+# disqus_username: https-frangezone-github-io
 
 # Netease settings
 netease_comment: false
